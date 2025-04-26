@@ -61,15 +61,9 @@ print("Mean Squared error : ",mse)
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
 
-![Screenshot (809)](https://github.com/user-attachments/assets/028b3c05-ec9a-4b96-ac39-473b3ffda231)
-
-![Screenshot (810)](https://github.com/user-attachments/assets/90948097-3310-4df0-b8cc-05e84a23bad4)
-
-![Screenshot (811)](https://github.com/user-attachments/assets/38881eb4-be8c-4391-bd2b-a11300148e16)
-
-![Screenshot (812)](https://github.com/user-attachments/assets/9b82ff28-40a6-488c-9092-faf4998bca0e)
+![Screenshot 2025-04-26 215615](https://github.com/user-attachments/assets/63bc846c-3342-414a-b2fe-194f24a162b8)
+![Screenshot 2025-04-26 215622](https://github.com/user-attachments/assets/8c2d16f5-e0a4-4461-8f73-2cf0c4c07551)
 
 
 ## Result:
